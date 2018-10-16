@@ -1,0 +1,14 @@
+fieldset {
+    margin: auto;
+}
+
+#logo {
+    text-align: center;
+    font-size: xx-large;
+}
+
+#content {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}

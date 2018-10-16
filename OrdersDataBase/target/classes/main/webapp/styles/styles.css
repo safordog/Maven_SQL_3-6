@@ -1,0 +1,29 @@
+fieldset {
+    margin: auto;
+}
+
+#logo {
+    text-align: center;
+    font-size: xx-large;
+}
+
+#content {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+input[type=submit] {
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    margin: 3px 0 15px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.8;
+}
+
+input[type=submit]:hover {
+    opacity: 1;
+}
